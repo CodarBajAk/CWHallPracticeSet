@@ -1,4 +1,5 @@
 package CWHpractice;
+// Chapter name = operators and expression  , ch-2
 import java.util.Scanner;
 public class CWHpractice02 {
     public static void main(String[] args) {
@@ -43,6 +44,8 @@ public class CWHpractice02 {
 //        int x = 7 ;
 //        int a = 7*49/7 + 35 / 7;
 //        System.out.println( a);
+
+        // Here the practice set  is Completed by love you 3000 !!
 
     }
 }

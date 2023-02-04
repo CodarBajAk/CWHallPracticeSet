@@ -1,4 +1,5 @@
 package CWHpractice;
+// Chapter name = Variable and datatype ,  ch - 01
 import java.util.Scanner;
 public class CWHpractice01 {
     public static void main(String[] args) {
@@ -60,6 +61,6 @@ public class CWHpractice01 {
 //
 //        System.out.println( sc.hasNextInt() );
 
-
+        // Here the practice set  is Completed by love you 3000 !!
     }
 }
